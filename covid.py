@@ -1,6 +1,6 @@
 import requests
 
-
+ 
 class Covid:
     URL = "https://api.covid19api.com/summary"
     covid19 = requests.get(URL)

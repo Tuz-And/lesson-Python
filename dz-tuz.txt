@@ -1,0 +1,4 @@
+Практична:
+	https://github.com/Tuz-And/lesson-Python/tree/main/bank_accound
+Домашка:
+	https://github.com/Tuz-And/lesson-Python/tree/main/DiscountCard
